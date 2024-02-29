@@ -27,3 +27,52 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+target/
+
+# Eclipse
+.settings/
+.metadata/
+
+# IntelliJ
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.cache/
+
+# Gradle
+.gradle/
+
+# Windows
+Thumbs.db
+ehthumbs.db
